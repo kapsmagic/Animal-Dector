@@ -1,0 +1,43 @@
+body
+{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    background-color: rgb(255, 255, 255);
+}
+
+.header_div
+{
+background: rgb(255, 255, 255);
+color: rgba(255, 157, 157, 0.911); 
+}
+
+.header_div p
+{
+    font-family: 'Noto Serif', serif;
+     color: rgb(255, 255, 255);
+     letter-spacing: 2px;
+     font-size: 12px;
+}
+
+.main_div button
+{
+    font-family: 'Noto Serif', serif;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+}
+
+
+.copy_right_footer
+{
+    position: fixed;
+    color:rgb(155, 154, 154);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+
+}
+
